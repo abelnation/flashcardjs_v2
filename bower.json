@@ -1,0 +1,26 @@
+{
+  "name": "flashcardjs_v2",
+  "version": "0.1.0",
+  "homepage": "https://github.com/abelnation/flashcardjs_v2",
+  "authors": [
+    "abelnation <abel.allison@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "~3.2.0",
+    "requirejs-text": "~2.0.12",
+    "requirejs-domready": "~2.0.1"
+  }
+}
